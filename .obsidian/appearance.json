@@ -1,4 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "monospaceFontFamily": "CommitMono",
+  "textFontFamily": "FiraCode Nerd Font",
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "enabledCssSnippets": [
+    "snip"
+  ]
 }
