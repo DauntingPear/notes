@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*.jpg
+.obsidian/plugins
+.obsidian/themes
+.obsidian/workspace
+.obsidian/workspace.json
