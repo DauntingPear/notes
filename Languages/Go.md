@@ -1,4 +1,4 @@
-### [[Go Basic Syntax]]
+### [[Go Basics]]
 
 ### [[Go Advanced Topics]]
 ### [[Building CLIs in Go]]
